@@ -1,1 +1,19 @@
-// Write your solution in this file!
+let employee = {name:"John", 
+streetAddress:"123 Fake Street"
+};
+
+function updateEmployeeWithKeyAndValue(){
+
+}
+
+function destructivelyUpdateEmployeeWithKeyAndValue(){
+
+}
+
+function deleteFromEmployeeByKey(){
+
+}
+
+function destructivelyDeleteFromEmployeeByKey(){
+    
+}
